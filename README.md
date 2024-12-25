@@ -76,24 +76,5 @@ Model Loading Issues: Verify that the Vosk model path is correct and the model f
 Contributing
 If you would like to contribute to this project, please follow these steps:
 
-### Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -am 'Add new feature').
-Push the branch to your fork (git push origin feature/YourFeature).
-Open a Pull Request.
-
 ### Contact
-For any questions or issues, please open an issue in the repository or contact me directly at your-email@example.com.
-
-### Explanation
-
-- **Prerequisites**: Steps to set up the environment, including cloning the repo, setting up a virtual environment, and installing dependencies.
-- **Downloading the Vosk Model**: Instructions for downloading and extracting the Vosk model.
-- **Running the Program**: How to execute the script to start the speech recognition process.
-- **Usage**: Basic usage instructions.
-- **Troubleshooting**: Common issues and solutions.
-- **Contributing**: Guidelines for contributing to the project.
-- **License**: Licensing information.
-- **Contact**: Information on how to reach out for support.
-
-Replace placeholder values with your actual repository details and contact information.
+For any questions or issues, please open an issue in the repository.
